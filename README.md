@@ -1,4 +1,4 @@
-# 🚀 Multi-MCP Intelligent Assistant
+# Multi-MCP Intelligent Assistant
 
 The Multi-MCP Intelligent Assistant is a powerful productivity tool that integrates multiple Model Context Protocol (MCP) servers to provide seamless access to GitHub, Perplexity, Calendar, and Gmail services through natural language interactions. This advanced AI assistant is powered by Agno's AI Agent framework and designed to be a productivity multiplier across your digital workspace.
 
@@ -37,10 +37,6 @@ The Multi-MCP Intelligent Assistant is a powerful productivity tool that integra
 Follow these steps to set up and run the application:
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/mcp_ai_agents/multi_mcp_agent
-   ```
 
 2. **Install the dependencies**:
     ```bash
